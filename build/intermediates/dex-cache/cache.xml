@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\projects\NDKDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="21.1.1"
+        sha1="b0688fd32884b82ef6462659214d82ebbf4ca442">
+        <dex dex="D:\AndroidStudio\projects\NDKDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3e8cf1adc6c9a65804a9ed8b75b1b25d047526d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\android-sdk-windows-new1\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="D:\AndroidStudio\projects\NDKDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.2_7c804cc71dd5ec3d6e2c4411d9872a53c6b75160\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\projects\NDKDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="D:\AndroidStudio\projects\NDKDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.2_c838778525beb2c09fdd9605f30a08088e0372ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\projects\NDKDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="D:\AndroidStudio\projects\NDKDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.2_06bfa97771379a62aa07c99db03b2844abde3b4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\projects\NDKDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="D:\AndroidStudio\projects\NDKDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.2_908add5536f7d9687652579bb9fb3f01674f0cf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\projects\NDKDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="21.1.1"
+        sha1="b3eff2414b43fa832fc53603735beec60b9ddade">
+        <dex dex="D:\AndroidStudio\projects\NDKDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6303db576c42505e8669ae49d96ba8f5cdd79422\classes.dex" />
+    </item>
+
+</items>
